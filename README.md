@@ -1,2 +1,2 @@
-<p data-height="265" data-theme-id="dark" data-slug-hash="xyQGvJ" data-default-tab="js,result" data-user="innorupt" data-pen-title="xyQGvJ" class="codepen">See the Pen <a href="https://codepen.io/innorupt/pen/xyQGvJ/">xyQGvJ</a> by Innorupt (<a href="https://codepen.io/innorupt">@innorupt</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<p data-height="461" data-theme-id="dark" data-slug-hash="xyQGvJ" data-default-tab="js,result" data-user="innorupt" data-pen-title="xyQGvJ" class="codepen">See the Pen <a href="https://codepen.io/innorupt/pen/xyQGvJ/">xyQGvJ</a> by Innorupt (<a href="https://codepen.io/innorupt">@innorupt</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
